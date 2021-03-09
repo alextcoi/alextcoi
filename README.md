@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Alex Tcoi
 
-<!--
-**alextcoi/alextcoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently I'm working in petrochemical industry as a senior financial analyst
+💻 Digging into web development with Yandex.Praktikum
+✊🏻 Aiming to join strong team with challenging projects
+🤯 Doing my best to deliver clean code with transparent structure
+🎓 Always ready to learn something new (of course, if it makes sense and adds value😅)
+👀 Fun fact: Korean origin. Born in Middle Asia. Raised in Russia.
+✍🏻 Reach me out:
+      tg: @alextcoi
+      email: alexvtcoi@gmail.com
+      
+My current stack: HTML, CSS, JS, React JS, Git, Webpack
