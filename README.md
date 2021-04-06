@@ -8,4 +8,4 @@
 - 👀 Fun fact: Korean origin. Born in Middle Asia. Raised in Russia.
 - ✍🏻 Reach me out. Tg: @alextcoi. Email: alexvtcoi@gmail.com
       
-My current stack: HTML, CSS, JS, React JS, Redux (in progress), Python (in progress) Git, Webpack
+My current stack: HTML, CSS, JS, React JS, Redux (in progress), Python (in progress), Git, Webpack
